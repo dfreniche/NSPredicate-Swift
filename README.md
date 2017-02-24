@@ -1,5 +1,7 @@
 # NSPredicate in Swift 3 Playground
 
+![](img/screenshot1.png)
+
 The NSPredicate class is used to define __logical conditions__ used to constrain a search either for a __fetch__ or for __in-memory__ filtering.
 
 - when fetching objects, they arrive filtered from disk. This is used with [Core Data](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CoreData/cdProgrammingGuide.html)
